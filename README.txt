@@ -242,4 +242,3 @@ Nota: Estoy obviando las letras minusculas porque quiero cumplir con los estanda
                 2. Si el <id> no se encuentra, entonces retorno un JSON con el contenido correspondiende.
 
 
-7. Encriptado :
